@@ -108,3 +108,7 @@ venv.bak/
 
 # Project
 postgres-data
+
+.history
+.vscode-server
+.bash_history
