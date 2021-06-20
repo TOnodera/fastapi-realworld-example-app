@@ -8,4 +8,4 @@
 [init]
 	defaultBranch = main
 [credential]
-	helper = "!f() { /home/python/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/node /tmp/vscode-remote-containers-5bc94f2ff663aab4a753c1c6428353cc6fac3152.js $*; }; f"
+	helper = "!f() { /home/python/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/node /tmp/vscode-remote-containers-f3b1f509df9f58a6a03f251a2afa47e9a95b0194.js $*; }; f"
